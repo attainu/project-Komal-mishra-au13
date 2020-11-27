@@ -25,12 +25,6 @@ Step5:- Now Row 4 value:
 In the maze matrix, 0 means the block is a dead end and 1 means the
 block can be used in the path from source to destination. 
 
-INPUT EXAMPLE 2.
-
-step1:- It will ask for num of rows :
-5 
-
-Step2:- Now it will ask for 1 row value:
 
 
 
